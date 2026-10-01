@@ -30,21 +30,21 @@ My research focuses on natural language processing and machine learning. My curr
 
 ### 2025
 
-- **Junteng Liu**, Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He. **"SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond"** *Arxiv*, 2025. [Code]
+- **Junteng Liu**,  Yuanxiang Fan,  Zhuo Jiang,  Han Ding,  Yongyi Hu,  Chi Zhang,  Yiqi Shi,  Shitong Weng,  Aili Chen,  Shiqi Chen,  Yunan Huang,  Mozhi Zhang,  Pengyu Zhao,  Junjie Yan,  Junxian He. **"SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond"** *Arxiv*, 2025.
 
-- **Junteng Liu**, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. **"On the Perception Bottleneck of VLMs for Chart Understanding"** *Arxiv*, 2025. [Code: Vision4Chart]
+- **Junteng Liu**,  Weihao Zeng,  Xiwen Zhang,  Yijun Wang,  Zifei Shan,  Junxian He. **"On the Perception Bottleneck of VLMs for Chart Understanding"** *Arxiv*, 2025.
 
 ### 2024
 
-- **Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. **"On the Universal Truthfulness Hyperplane Inside LLMs"** *EMNLP 2024*. [Code: Universal_Truthfulness_Hyperplane]
+- **Junteng Liu**,  Shiqi Chen,   Yu Cheng,  Junxian He. **"On the Universal Truthfulness Hyperplane Inside LLMs"** *EMNLP 2024*.
 
-- Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. **"In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation"** *ICML 2024*.
+-  Shiqi Chen,   Miao Xiong,   **Junteng Liu**,   Zhengxuan Wu,   Teng Xiao,   Siyang Gao,   Junxian He. **"In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation"** *ICML 2024*.
 
 ### 2023
 
-- Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. **"C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"** *NeurIPS 2023*.
+-  Yuzhen Huang,   Yuzhuo Bai,   Zhihao Zhu,   Junlei Zhang,   Jinghan Zhang,   Tangjun Su,   **Junteng Liu**,   Chuancheng Lv,   Yikai Zhang,   Jiayi Lei,   Yao Fu,   Maosong Sun,   Junxian He. **"C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models"** *NeurIPS 2023*.
 
-- Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He. **"Composing Parameter-Efficient Modules with Arithmetic Operations"** *NeurIPS 2023*.
+-  Jinghan Zhang,   Shiqi Chen,   **Junteng Liu**,   Junxian He. **"Composing Parameter-Efficient Modules with Arithmetic Operations"** *NeurIPS 2023*.
 
 ## Honors and Awards
 
@@ -52,7 +52,7 @@ My research focuses on natural language processing and machine learning. My curr
 
 ## Contact
 
-- **Email**:  [jliugi@connect.ust.hk](mailto:  )
+- **Email**: [jliugi@connect.ust.hk](mailto:  )
 - **GitHub**: [Vicent0205](https://github.com/Vicent0205)
 - **Google Scholar**: [Profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
 - **X (Twitter)**: [@junteng88716710](https://x.com/junteng88716710)
